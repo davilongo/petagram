@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="contacto">Contacto</string>
+    <string name="acercade">Acerca de</string>
+    <string name="ranking">Ranking</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">Email</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="enviar_mensaje">Enviar Mensaje</string>
+    <string name="nombre_completo">David Vazquez Montejano</string>
+    <string name="titulacion">Ingeniero Técnico Informática de Gestión</string>
+    <string name="profesion">Desarrollador Android</string>
+    <string name="tlf">(+34)605205371</string>
+    <string name="valoracion">Valoracion</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
